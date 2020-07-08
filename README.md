@@ -23,7 +23,7 @@ These items need to be downloaded and installed in order to properly run a Zarta
 
 ### Python
 
-Zartan Requires Python 3.6 or higher to run properly.  Python can be downloaded here [Python Download](https://www.python.org/downloads/)
+Zartan requires Python 3.6 or higher to run properly.  Python can be downloaded here [Python Download](https://www.python.org/downloads/)
 
 You can also leverage services like Heroku and AWS Elastic Beanstalk to run Zartan as well.
 
